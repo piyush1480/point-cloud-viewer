@@ -1,0 +1,20 @@
+/* Viewer background & layout */
+#viewer {
+    width: 100%;
+    height: 500px;
+    background: #111;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* Page layout padding */
+body {
+    padding: 20px;
+    background: #f5f5f5;
+}
+
+/* Navbar branding */
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.3rem;
+}
